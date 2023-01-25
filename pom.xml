@@ -2,9 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.pump</groupId>
-    <artifactId>pumpernickel</artifactId>
-    <name>Pumpernickel</name>
-    <version>1.03-dev</version>
+    <artifactId>jthrobber</artifactId>
+    <name>Pumpernickel-JThrobber</name>
+    <version>1.03</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.9</maven.compiler.source>
@@ -16,9 +16,9 @@
         <url>https://github.com/mickleness/pumpernickel/issues</url>
     </issueManagement>
     <scm>
-        <url>https://github.com/mickleness/pumpernickel</url>
-        <connection>scm:git:https://github.com/mickleness/pumpernickel</connection>
-        <developerConnection>git@github.com:mickleness/pumpernickel.git</developerConnection>
+        <url>https://github.com/weirdkid/jthrobber</url>
+        <connection>scm:git:https://github.com/weirdkid/jthrobber</connection>
+        <developerConnection>git@github.com:weirdkid/jthrobber.git</developerConnection>
     </scm>
     <licenses>
         <license>
