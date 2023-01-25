@@ -1,1 +1,1 @@
-Check out the [project page](https://mickleness.github.io/pumpernickel/) for a slideshow of screenshots. That's probably the best way to get a feel for what topics are covered here.
+I'm going to try to isolate just the JThrobber code, since that's all I need right now. Otherwise, the parent jar that includes everything is too big.
